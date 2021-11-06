@@ -6,11 +6,11 @@ python-dotenv==0.19.1
 pytz==2021.3
 regex==2021.11.2
 Cython==0.29.23
+matplotlib>=1.4.3
 scikit-learn==0.22.2.post1
 scipy
 joblib==1.1.0
 click==7.1.2
-matplotlib>=1.4.3
 pathlib
 opencv-python-headless>=4.2.0.32
 streamlit
