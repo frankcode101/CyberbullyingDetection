@@ -10,3 +10,7 @@ scipy==1.7.2
 joblib==1.1.0
 click==7.1.2
 Cython==0.29.23
+matplotlib>=1.4.3
+pathlib
+opencv-python-headless>=4.2.0.32
+streamlit
