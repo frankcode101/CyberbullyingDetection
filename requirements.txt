@@ -1,5 +1,4 @@
-
-Cython==0.28.5
+Cython ≥ 0.29.14 
 nltk==3.6.5
 numpy==1.21.4
 pandas==1.3.4
