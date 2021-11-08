@@ -1,3 +1,4 @@
+git+git://github.com/heroku/heroku-buildpack-python/blob/main/bin/compile#L183-L189
 Cython==0.28.5
 nltk==3.6.5
 numpy==1.21.4
